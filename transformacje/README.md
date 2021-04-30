@@ -20,6 +20,17 @@ Idąc na prawo od przycisków wczytania, znajdują się dwie kratki w których m
  w przeciwnym razie policz nowa_wartosc_składowej ze wzoru
  ```
 Następnie na prawo od wyżej wymienianych elementów znajdują się przyciski do mieszania zdjęć. Zdjęcia można mieszać gdy jest wczytane zdjęcie główne i zdjęcie z którym mieszamy.
-Efekty so uzyskiwane przy użyciu wzorów z [pdf do lab5](https://blackboard.uwb.edu.pl/bbcswebdav/pid-89131-dt-content-rid-562341_1/courses/A2020-420-IS1-2GRA-LAB3/lab_5.pdf). W przypadku mieszania w kodzie są dwa rodzaje zabezpieczeń zależne od wzoru mieszania:
-W przypadku wzorów bez if-ów np.
+Efekty so uzyskiwane przy użyciu wzorów z [pdf do lab5](https://blackboard.uwb.edu.pl/bbcswebdav/pid-89131-dt-content-rid-562341_1/courses/A2020-420-IS1-2GRA-LAB3/lab_5.pdf). W przypadku mieszania w kodzie są trzy rodzaje zabezpieczeń zależne od wzoru mieszania:
+W przypadku wzorów bez dzielenia np.
 ![](https://github.com/Pietro55555/Grafika_i_komunikacja_SP/blob/main/transformacje/README_ss/mieszanie1.PNG)
+oraz
+![](![image](https://user-images.githubusercontent.com/80325475/116687930-3c8dcc80-a9b6-11eb-9915-336f0b073c20.png)
+stosujemy zabezpieczenia takie jak do transformacji czyli
+ ```
+ if(nowa_składowej <0) 
+   nowa_składowej = 0
+ else if(nowa_składowej >255)
+   nowa_składowej = 255
+ else
+ policz nowa_składowej ze wzoru
+ ```
