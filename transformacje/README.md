@@ -55,3 +55,5 @@ stosujemy zabezpieczenia takie jak do transformacji:
  policz nowa_składowej ze wzoru przy elsie
  }
  ```
+przy wzorach z dzieleniem takich jak:
+(![image](https://user-images.githubusercontent.com/80325475/116688851-92af3f80-a9b7-11eb-9afd-321c51d9ffc2.png)
