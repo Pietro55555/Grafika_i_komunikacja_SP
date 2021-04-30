@@ -4,3 +4,7 @@ Wczytaj 1 - wczytuje zdjęcie główne na którym można przeprowadzać tansform
 Wczytaj 2 - wczytuje zdjęcie do mieszania które jest wykorzystywane do mieszania się z zdjęciem głównym 
             przy użyciu któregoś z trybów mieszania
 ```
+Idąc na prawo od przycisków wczytania, znajdują się dwie kratki w których możemy wpisać wartość o jaką chcemy zmienić jasność (Jeśli wartośc jest <0 to przyciemniamy a jak >0 to rozjaśniamy) oraz znajduje się tam kratka służąca do zmiany wartości współczynnika. Pod miejscami do wpisana wartośći mamy przyciski do zmiany jasność i negatywu (negatyw jest tylko w liniowej)
+1. Transformacja Liniowa
+   - Zmiana jasności dodaje wartość podatną w okienku "Jaśniej/Ciemnije o:"
+   - Negatyw tworzy z aktualnego zdjęcia negatyw odejmując od 255 wartość R,G lub B pixela 
