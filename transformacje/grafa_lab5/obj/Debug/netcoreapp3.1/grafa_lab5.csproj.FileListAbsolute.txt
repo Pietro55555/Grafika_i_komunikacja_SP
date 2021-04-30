@@ -1,0 +1,15 @@
+D:\Pulpit\UWB\środowiska graficzne\grafa_lab5\grafa_lab5\bin\Debug\netcoreapp3.1\grafa_lab5.exe
+D:\Pulpit\UWB\środowiska graficzne\grafa_lab5\grafa_lab5\bin\Debug\netcoreapp3.1\grafa_lab5.deps.json
+D:\Pulpit\UWB\środowiska graficzne\grafa_lab5\grafa_lab5\bin\Debug\netcoreapp3.1\grafa_lab5.runtimeconfig.json
+D:\Pulpit\UWB\środowiska graficzne\grafa_lab5\grafa_lab5\bin\Debug\netcoreapp3.1\grafa_lab5.runtimeconfig.dev.json
+D:\Pulpit\UWB\środowiska graficzne\grafa_lab5\grafa_lab5\bin\Debug\netcoreapp3.1\grafa_lab5.dll
+D:\Pulpit\UWB\środowiska graficzne\grafa_lab5\grafa_lab5\bin\Debug\netcoreapp3.1\grafa_lab5.pdb
+D:\Pulpit\UWB\środowiska graficzne\grafa_lab5\grafa_lab5\obj\Debug\netcoreapp3.1\grafa_lab5.csprojAssemblyReference.cache
+D:\Pulpit\UWB\środowiska graficzne\grafa_lab5\grafa_lab5\obj\Debug\netcoreapp3.1\grafa_lab5.Form1.resources
+D:\Pulpit\UWB\środowiska graficzne\grafa_lab5\grafa_lab5\obj\Debug\netcoreapp3.1\grafa_lab5.csproj.GenerateResource.cache
+D:\Pulpit\UWB\środowiska graficzne\grafa_lab5\grafa_lab5\obj\Debug\netcoreapp3.1\grafa_lab5.AssemblyInfoInputs.cache
+D:\Pulpit\UWB\środowiska graficzne\grafa_lab5\grafa_lab5\obj\Debug\netcoreapp3.1\grafa_lab5.AssemblyInfo.cs
+D:\Pulpit\UWB\środowiska graficzne\grafa_lab5\grafa_lab5\obj\Debug\netcoreapp3.1\grafa_lab5.csproj.CoreCompileInputs.cache
+D:\Pulpit\UWB\środowiska graficzne\grafa_lab5\grafa_lab5\obj\Debug\netcoreapp3.1\grafa_lab5.dll
+D:\Pulpit\UWB\środowiska graficzne\grafa_lab5\grafa_lab5\obj\Debug\netcoreapp3.1\grafa_lab5.pdb
+D:\Pulpit\UWB\środowiska graficzne\grafa_lab5\grafa_lab5\obj\Debug\netcoreapp3.1\grafa_lab5.genruntimeconfig.cache
