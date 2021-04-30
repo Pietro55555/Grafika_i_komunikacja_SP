@@ -69,6 +69,8 @@ if(mianownik != 0)
  w przeciwnym razie policz nowa_wartosc_składowej ze wzoru
 }
 ```
+Do efektu przezroczystości jest dodane okienko do wpisania wartości alfy która przyjmuje wartości od 0 do 1
+
 Jako innowacje wprowadziłem dwa przyciski służące do zmiany zdjęcia głównego lub zdjęcia z którym mieszamy na zdjęcie jakie uzyskaliśmy po operacjach (przyciski są zaznaczone czerwonym okręgiem tylko na tym screenie) dzięki czemu możemy przerowadzać operacje na zdjęcia na których już przeprowadziliśmy
 ![image](https://user-images.githubusercontent.com/80325475/116689374-4fa19c00-a9b8-11eb-95ac-ff7b73230a28.png)  
 Innowacją jest też możliwość zapisania zdjęcia które otrzymaliśmy po operacjach jako plik. Do tego służy przycisk Zapisz w prawym górnym rogu
