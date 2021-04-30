@@ -1,4 +1,4 @@
-Jest to aplikacja okienkowa która transoformuje liniowo i potęgowo wybrane zdjęcie oraz miesza dwa zdjęcia ze sobą. Środkowa i dolna część aplikacji skłąda się z trzech okienek na zdjęcia z czego duże okno na prawo pokazuje wyniki naszych transformacji a dwa mniejsze okna na lewo dwa pokazują wczytane zdjęcia przy pomocy przycisków:
+Jest to aplikacja okienkowa napisane w c# która transoformuje liniowo i potęgowo wybrane zdjęcie oraz miesza dwa zdjęcia ze sobą. Środkowa i dolna część aplikacji skłąda się z trzech okienek na zdjęcia z czego duże okno na prawo pokazuje wyniki naszych transformacji a dwa mniejsze okna na lewo dwa pokazują wczytane zdjęcia przy pomocy przycisków:
 ```
 Wczytaj 1 - wczytuje zdjęcie główne na którym można przeprowadzać tansformacje (górne mniejsze okienko)
 Wczytaj 2 - wczytuje zdjęcie z którym mieszamy zdjęciem główne przy użyciu któregoś z trybów mieszania (dolne mniejsze okienko)
