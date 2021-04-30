@@ -10,3 +10,13 @@ Idąc na prawo od przycisków wczytania, znajdują się dwie kratki w których m
    - Negatyw tworzy z aktualnego zdjęcia negatyw odejmując od 255 wartość R,G i B pixela 
 2. Transformacja Potęgowa
    - Zmiana jasnosci zmienia wartośc R,G i B pixela na wartosc składowej podniesionej do potęgi o wartosci podanej jako wartosc jasniej/ciemniej oraz jest przemnożona przez współczynnik
+
+**Do wszystkich wyżej wymienionych Transformacji wykorzystuje zabezpieczenia w postaci dwóch ifów które:**
+ ```
+ if(nowa_wartosc_składowej <0) 
+   wtedy nowa_wartosc_składowej jest równa 0
+ else if(nowa_wartosc_składowej >255)
+   wtedy nowa_wartosc_składowej jest równa 255
+ else
+ w przeciwnym razie policz nowa_wartosc_składowej ze wzoru
+ ```
