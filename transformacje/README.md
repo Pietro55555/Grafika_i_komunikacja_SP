@@ -55,5 +55,20 @@ stosujemy zabezpieczenia takie jak do transformacji:
  policz nowa_składowej ze wzoru przy elsie
  }
  ```
-przy wzorach z dzieleniem takich jak:
-(![image](https://user-images.githubusercontent.com/80325475/116688851-92af3f80-a9b7-11eb-9afd-321c51d9ffc2.png)
+przy wzorach z dzieleniem takich jak:  
+![image](https://user-images.githubusercontent.com/80325475/116688851-92af3f80-a9b7-11eb-9afd-321c51d9ffc2.png)
+stosujemy zabezpiecznie podobne do zabezpieczenia transformacji tylko z różnicą że wszystko musi byc w if-ie który wykona transforamcje pixela tylko wtedy gdy mianownik jest różny od 0
+```
+if(mianownik != 0)
+{
+ if(wynik_wzoru <0) 
+   wtedy nowa_wartosc_składowej jest równa 0
+ else if(wynik_wzoru >255)
+   wtedy nowa_wartosc_składowej jest równa 255
+ else
+ w przeciwnym razie policz nowa_wartosc_składowej ze wzoru
+}
+```
+Jako innowacje wprowadziłem dwa przyciski służące do zmiany zdjęcia głównego lub zdjęcia z którym mieszamy na zdjęcie jakie uzyskaliśmy po operacjach (przyciski są zaznaczone czerwonym okręgiem tylko na tym screenie) dzięki czemu możemy przerowadzać operacje na zdjęcia na których już przeprowadziliśmy
+![image](https://user-images.githubusercontent.com/80325475/116689374-4fa19c00-a9b8-11eb-95ac-ff7b73230a28.png)  
+Innowacją jest też możliwość zapisania zdjęcia które otrzymaliśmy po operacjach jako plik. Do tego służy przycisk Zapisz w prawym górnym rogu
