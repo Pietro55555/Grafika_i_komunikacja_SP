@@ -7,3 +7,10 @@ W każdym z tych funkcji istnieje zabezpieczenie polegającym na:
 if (składowa >= 0 && składowa <= 255)
    ustaw nową składową o wartości która wyszła ze wzoru
 ```
+Do tworzenia i rysowania histogramów składowych R G i B wykorzysuje funkcje histogram w której w pierwszych trzech for-ach (for-ach z x i y) zapisuje wartości(wysokości) kolumn histogramu do tablic a w kolejnych (for-ach z i) rysuje histogramy.
+Jako innowacje uznaje:  
+```
+1. Przycisk do przeniesienia zdjęcie po zmiane kontrastu na zdjęcie z którego wychodzimy (przycisk <<<<< na środku aplikacji) dzięki czemu możemy zmienć kontrast zdjęciu któremu już zmieniliśmy kontrast
+2. Możliwośc zapisu zdjęcia po zmianie kontrastu oraz każdego z histogramów jako plik
+3. Wykorzystanie obu wariantów wzorów
+```
