@@ -12,6 +12,6 @@ Jako innowacje uznaje:
 ```
 1. Przycisk do przeniesienia zdjęcie po zmiane kontrastu na zdjęcie z którego wychodzimy (przycisk <<<<< na środku aplikacji) 
    dzięki czemu możemy zmienć kontrast zdjęciu któremu już zmieniliśmy kontrast
-3. Możliwośc zapisu zdjęcia po zmianie kontrastu oraz każdego z histogramów jako plik
-4. Wykorzystanie obu wariantów wzorów
+2. Możliwośc zapisu zdjęcia po zmianie kontrastu oraz każdego z histogramów jako plik
+3. Wykorzystanie obu wariantów wzorów
 ```
