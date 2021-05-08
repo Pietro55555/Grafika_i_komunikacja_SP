@@ -1,0 +1,15 @@
+D:\Pulpit\UWB\środowiska graficzne\filtry\filtry\bin\Debug\netcoreapp3.1\filtry.exe
+D:\Pulpit\UWB\środowiska graficzne\filtry\filtry\bin\Debug\netcoreapp3.1\filtry.deps.json
+D:\Pulpit\UWB\środowiska graficzne\filtry\filtry\bin\Debug\netcoreapp3.1\filtry.runtimeconfig.json
+D:\Pulpit\UWB\środowiska graficzne\filtry\filtry\bin\Debug\netcoreapp3.1\filtry.runtimeconfig.dev.json
+D:\Pulpit\UWB\środowiska graficzne\filtry\filtry\bin\Debug\netcoreapp3.1\filtry.dll
+D:\Pulpit\UWB\środowiska graficzne\filtry\filtry\bin\Debug\netcoreapp3.1\filtry.pdb
+D:\Pulpit\UWB\środowiska graficzne\filtry\filtry\obj\Debug\netcoreapp3.1\filtry.csprojAssemblyReference.cache
+D:\Pulpit\UWB\środowiska graficzne\filtry\filtry\obj\Debug\netcoreapp3.1\filtry.Form1.resources
+D:\Pulpit\UWB\środowiska graficzne\filtry\filtry\obj\Debug\netcoreapp3.1\filtry.csproj.GenerateResource.cache
+D:\Pulpit\UWB\środowiska graficzne\filtry\filtry\obj\Debug\netcoreapp3.1\filtry.AssemblyInfoInputs.cache
+D:\Pulpit\UWB\środowiska graficzne\filtry\filtry\obj\Debug\netcoreapp3.1\filtry.AssemblyInfo.cs
+D:\Pulpit\UWB\środowiska graficzne\filtry\filtry\obj\Debug\netcoreapp3.1\filtry.csproj.CoreCompileInputs.cache
+D:\Pulpit\UWB\środowiska graficzne\filtry\filtry\obj\Debug\netcoreapp3.1\filtry.dll
+D:\Pulpit\UWB\środowiska graficzne\filtry\filtry\obj\Debug\netcoreapp3.1\filtry.pdb
+D:\Pulpit\UWB\środowiska graficzne\filtry\filtry\obj\Debug\netcoreapp3.1\filtry.genruntimeconfig.cache
