@@ -1,0 +1,15 @@
+D:\Pulpit\UWB\środowiska graficzne\modyfikacja_histogramu\modyfikacja_histogramu\bin\Debug\netcoreapp3.1\modyfikacja_histogramu.exe
+D:\Pulpit\UWB\środowiska graficzne\modyfikacja_histogramu\modyfikacja_histogramu\bin\Debug\netcoreapp3.1\modyfikacja_histogramu.deps.json
+D:\Pulpit\UWB\środowiska graficzne\modyfikacja_histogramu\modyfikacja_histogramu\bin\Debug\netcoreapp3.1\modyfikacja_histogramu.runtimeconfig.json
+D:\Pulpit\UWB\środowiska graficzne\modyfikacja_histogramu\modyfikacja_histogramu\bin\Debug\netcoreapp3.1\modyfikacja_histogramu.runtimeconfig.dev.json
+D:\Pulpit\UWB\środowiska graficzne\modyfikacja_histogramu\modyfikacja_histogramu\bin\Debug\netcoreapp3.1\modyfikacja_histogramu.dll
+D:\Pulpit\UWB\środowiska graficzne\modyfikacja_histogramu\modyfikacja_histogramu\bin\Debug\netcoreapp3.1\modyfikacja_histogramu.pdb
+D:\Pulpit\UWB\środowiska graficzne\modyfikacja_histogramu\modyfikacja_histogramu\obj\Debug\netcoreapp3.1\modyfikacja_histogramu.csprojAssemblyReference.cache
+D:\Pulpit\UWB\środowiska graficzne\modyfikacja_histogramu\modyfikacja_histogramu\obj\Debug\netcoreapp3.1\modyfikacja_histogramu.Form1.resources
+D:\Pulpit\UWB\środowiska graficzne\modyfikacja_histogramu\modyfikacja_histogramu\obj\Debug\netcoreapp3.1\modyfikacja_histogramu.csproj.GenerateResource.cache
+D:\Pulpit\UWB\środowiska graficzne\modyfikacja_histogramu\modyfikacja_histogramu\obj\Debug\netcoreapp3.1\modyfikacja_histogramu.AssemblyInfoInputs.cache
+D:\Pulpit\UWB\środowiska graficzne\modyfikacja_histogramu\modyfikacja_histogramu\obj\Debug\netcoreapp3.1\modyfikacja_histogramu.AssemblyInfo.cs
+D:\Pulpit\UWB\środowiska graficzne\modyfikacja_histogramu\modyfikacja_histogramu\obj\Debug\netcoreapp3.1\modyfikacja_histogramu.csproj.CoreCompileInputs.cache
+D:\Pulpit\UWB\środowiska graficzne\modyfikacja_histogramu\modyfikacja_histogramu\obj\Debug\netcoreapp3.1\modyfikacja_histogramu.dll
+D:\Pulpit\UWB\środowiska graficzne\modyfikacja_histogramu\modyfikacja_histogramu\obj\Debug\netcoreapp3.1\modyfikacja_histogramu.pdb
+D:\Pulpit\UWB\środowiska graficzne\modyfikacja_histogramu\modyfikacja_histogramu\obj\Debug\netcoreapp3.1\modyfikacja_histogramu.genruntimeconfig.cache
