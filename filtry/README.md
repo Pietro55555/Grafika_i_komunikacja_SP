@@ -20,5 +20,5 @@ Program został napisany w c#. Program pozwala na modyfikowania zdjęcia przy po
   c)operator Sobela
   ``   
  Po filtrach wyostrzających mamy filtry statyczne. W filtrach min i max znajdujemy największą/najmniejszą składową z powierzchni 3x3 i następnie one stają się nowymi składowymi w zdjęciu po filtrowaniu. Filtr mediana ma za zadanie spisać wszystkie wartości składowych z powierzchni 3x3, następnie tablica jest sortowania i wyciągana jest wartość środkowa czyli piąta (z indeksem 4 w tablicy). Wartość środkowa jest nową składową.
-  Jako innowacje uznaje możliwośc wyboru trzech podanych masek dla filtra laplacy (gdy trzeba było wybrać jedną)   ![image](https://user-images.githubusercontent.com/80325475/117553583-b6772300-b052-11eb-87ef-0a1a615bc8ba.png)   
+  Jako innowacje uznaje możliwośc wyboru trzech podanych masek przy pomocy radio buttonów pod przyciskiem laplacy dla filtra laplacy (gdy trzeba było wybrać jedną)   ![image](https://user-images.githubusercontent.com/80325475/117553583-b6772300-b052-11eb-87ef-0a1a615bc8ba.png)   
  oraz możliość zapisu i przeniesienia zdjęcia z które otrzymaliśmy po filtrowaniu na zdjęcie które filtrujemy.
